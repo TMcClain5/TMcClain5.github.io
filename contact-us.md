@@ -7,8 +7,8 @@ subtitle:
 **Contact Us**
 
 Social Media:
-- Instagram:
-- Twitter:
+- Instagram: [visualeyesapp](https://www.instagram.com/visualeyesapp)
+- Twitter: [visualeyesapp](https://twitter.com/visualeyesapp)
 
 E-mail:
-- visualeyesapp@gmail.com
+- <visualeyesapp@gmail.com>
