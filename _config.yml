@@ -20,10 +20,10 @@ author: TM Athletics LLC
 ###############################################
 
 navbar-links:
+  Help: 'help'
   Privacy Policy: "privacy-policy"
   Contact Us: "contact-us"
   About: "about"
-  Help: "help"
 
 ################
 # --- Logo --- #
