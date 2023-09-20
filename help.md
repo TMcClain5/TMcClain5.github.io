@@ -8,3 +8,6 @@ subtitle: 'Tools to help you learn what VisualEyes has to offer'
 
 - [Import a Video](/help/import-video.md)
 - [Record a Video](/help/record-video.md)
+
+**Athletes**
+- Adding/Creating an Athlete
