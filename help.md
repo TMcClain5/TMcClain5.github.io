@@ -10,4 +10,4 @@ subtitle: 'Tools to help you learn what VisualEyes has to offer'
 - [Record a Video](/help/record-video.md)
 
 **Athletes**
-- Adding/Creating an Athlete
+- [Add an Athlete](/help/add-athlete.md)
