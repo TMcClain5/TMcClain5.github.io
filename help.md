@@ -10,6 +10,7 @@ subtitle: 'Tools to help you learn what VisualEyes has to offer'
 - [Record a Video](/help/record-video.md)
 
 **Video Organization**
+- [Add Title to Video](/help/video-organization/organization-by-title.md)
 - [Organize by Athlete](/help/video-organization/organization-by-athlete.md)
 - [Organize by Tag](/help/video-organization/organization-by-tag.md)
 
