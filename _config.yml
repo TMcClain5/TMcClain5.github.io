@@ -22,6 +22,7 @@ author: TM Athletics LLC
 navbar-links:
   Help: 'help'
   Privacy Policy: "privacy-policy"
+  Terms & Conditions: "terms-and-conditions"
   Contact Us: "contact-us"
   About: "about"
 
@@ -38,7 +39,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/ve-logo.png
 
 
 #####################################
