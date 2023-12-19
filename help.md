@@ -16,3 +16,12 @@ subtitle: 'Tools to help you learn what VisualEyes has to offer'
 
 **Athletes**
 - [Add an Athlete](/help/add-athlete.md)
+
+**Account**
+- [Create an Account](/help/account/create-account.md)
+- [Delete your Account](/help/account/delete-account.md)
+- [Restore your Purchases](/help/account/restore-purchases.md)
+- [Upgrade to VisualEyes Pro](/help/account/upgrade-plan.md)
+- [Cancel your Subscription (iOS)](/help/account/cancel-subscription.md)
+- [Change Duration file remain on your device](/help/account/cache-duration.md)
+- [Clear VisualEyes Cache](/help/account/clear-cache.md)
