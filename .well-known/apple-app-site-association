@@ -4,7 +4,7 @@
       "details": [
       {
         "appID": "24RDB9LC3R.com.tmcclain.videoAnalysisTool",
-        "paths": ["*"]
+        "paths": ["/launch/*"]
       }
     ]
   }
