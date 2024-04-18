@@ -9,6 +9,10 @@ subtitle: 'Tools to help you learn what VisualEyes has to offer'
 - [Import a Video](/help/import-video.md)
 - [Record a Video](/help/record-video.md)
 
+**Sharing Videos in VisualEyes**
+- [Link Athlete in VisualEyes](/help/sharing-videos/link-athletes.md)
+- [Share a Video](/help/sharing-videos/share-videos.md)
+
 **Video Organization**
 - [Add Title to Video](/help/video-organization/organization-by-title.md)
 - [Organize by Athlete](/help/video-organization/organization-by-athlete.md)
