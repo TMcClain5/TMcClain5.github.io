@@ -1,0 +1,14 @@
+[
+    {
+      "relation": [
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.tmcclain.video_analysis_tool",
+        "sha256_cert_fingerprints": [
+          "FE:FB:AA:01:27:B4:51:45:6F:B9:29:6A:C3:F3:91:76:8F:72:C1:4E:FE:E3:4C:8B:9F:63:E2:84:2D:6D:6F:20"
+        ]
+      }
+    }
+  ]
